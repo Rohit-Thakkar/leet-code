@@ -20,11 +20,11 @@ Feel free to explore the solutions and explanations. You can use them to learn n
 The repository is structured as follows:
 
 ```
-├── problems
-│   ├── problem_001
-│   │   ├── solution1.py
-│   │   ├── solution2.java
-│   │   ├── solution3.cpp
+├── Root
+│   ├── Problem 001
+│   │   ├── Solution1.py
+│   │   ├── Solution2.java
+│   │   ├── Solution3.cpp
 │   │   ├── README.md
 │   └── ...
 │
@@ -32,9 +32,9 @@ The repository is structured as follows:
 └── .gitignore
 ```
 
-- **`problems/`**: This directory contains subdirectories named after each problem's identifier (e.g., `problem_001` for the first problem). Inside each problem directory, you'll find the following:
+- **`Root/`**: This directory contains subdirectories named after each problem's identifier (e.g., `problem_001` for the first problem). Inside each problem directory, you'll find the following:
   - Solutions in different programming languages (e.g., Python, Java, C++).
-  - A `README.md` file that includes the problem statement, my approach, and any additional notes.
+  - A `README.md` file that includes the problem statement, my approach, and any additional notes (may not there for each problem).
 
 - **`README.md`**: You're reading it right now! It provides an overview of this repository and its contents.
 
