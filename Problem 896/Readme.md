@@ -34,7 +34,7 @@ Constraints:
 
 About the Solution --- 
 
-At the time of Submission-
+Speed and memory usage at the time of Submission-
 
 
 <img width="467" alt="image" src="https://github.com/Rohit-Thakkar/leet-code/assets/97794321/624b147e-526b-4154-86f0-ddf7969bc084">
